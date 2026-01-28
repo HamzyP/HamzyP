@@ -2,6 +2,6 @@
 
 🎓 CS ’26 · Manchester Met
 
-💻 Python / JS / C# · Back-end focus  
+💻 Python / JS / C# / C++
 
 📫 phamzah [at] hotmail [dot] com
